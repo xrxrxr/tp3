@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de 
 // l’ensemble d’attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("TP3")]
+[assembly: AssemblyTitle("tp3_xavier_refour")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TP3")]
+[assembly: AssemblyProduct("tp3_xavier_refour")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l’ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("71198729-22c6-4209-97ff-ff898229ffdc")]
+[assembly: Guid("8333fbc7-79fd-42cc-9a65-233ee7d43417")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //

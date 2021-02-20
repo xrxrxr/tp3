@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace TP3
+namespace tp3_xavier_refour
 {
     public class RouteConfig
     {

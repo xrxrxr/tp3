@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace TP3.Controllers
+namespace tp3_xavier_refour.Controllers
 {
     public class HomeController : Controller
     {

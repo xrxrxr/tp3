@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace TP3
+namespace tp3_xavier_refour
 {
     public class FilterConfig
     {
